@@ -1,0 +1,7 @@
+a = ("45")
+as_float =float(a)
+as_int = int(a)
+as_str =str(a)
+print(as_float, type(as_float))
+print(as_int, type(as_int))
+print(as_str, type(as_str))
